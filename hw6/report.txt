@@ -1,0 +1,2 @@
+pID,Min Stock,Max Stock,Median Stock
+1,34.00,34.00,34.00

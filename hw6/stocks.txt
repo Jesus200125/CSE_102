@@ -1,0 +1,2 @@
+sID,pID,branch,current_stock
+1,1,adana,34
